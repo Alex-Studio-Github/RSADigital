@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alex-RSA", "Alex-RSA\Alex-RSA.vcxproj", "{52653138-6C49-489D-8618-8B3F8CA586EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Debug|x64.ActiveCfg = Debug|x64
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Debug|x64.Build.0 = Debug|x64
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Debug|x86.Build.0 = Debug|Win32
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Release|x64.ActiveCfg = Release|x64
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Release|x64.Build.0 = Release|x64
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Release|x86.ActiveCfg = Release|Win32
+		{52653138-6C49-489D-8618-8B3F8CA586EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694326DD-0F2F-4954-BD4F-DF118A29F778}
+	EndGlobalSection
+EndGlobal
